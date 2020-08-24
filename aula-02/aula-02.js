@@ -1,4 +1,4 @@
-console.log('aula 1 - variáveis');
+console.log('aula 2 - variáveis');
 
-const idade = 30;
-console.log('Minha idade ' + idade);
+//const de contstande, não muda
+//let muda
